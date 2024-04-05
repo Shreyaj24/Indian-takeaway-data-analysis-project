@@ -57,6 +57,8 @@ e.g. here the most orders are from November and December on average:343.33 -11(N
 e.g: 2019 - 3270,
      2018 - 4553,
      2015 -29
+8.  **Unique items in each restaurant** : Shows the unique items in each restaurant.
+9.  **Common items in both the restaurants with price comparision** : compares the price for common items when the price differs for both restaurants, gives insights to check for reasonable price      
 
 ## Error handlings and failures:
 The above conclusions and cleaning runs on the assumption that the data given in the price table and order table matches for the item name and product price.
