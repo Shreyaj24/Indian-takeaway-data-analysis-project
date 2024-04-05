@@ -1,6 +1,6 @@
 # Indian-takeaway-data-analysis-project
 ![Indian-takeaway](img_takeaway/indian_takeaway2.jpg)
-
+# Kanban board: https://app.clickup.com/9015532978/v/b/li/901503990941
 The Indian takeaway orders contains approx ~33k records from two restaurants in London between 2015 and 2019. This project provides valuable insights for the restaurants on the order details and sales to gain the business value. 
 
 1.  Understanding the orders and menu from both the restaurants and getting the total cost based on quantity.
